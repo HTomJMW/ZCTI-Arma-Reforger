@@ -1,0 +1,8 @@
+GameProject {
+ ID "ZECTI"
+ GUID "596862D328BDC8F5"
+ TITLE "ZECTI"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
