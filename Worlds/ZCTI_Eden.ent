@@ -4,3 +4,12 @@ SubScene {
 Layer default {
  Index 0
 }
+Layer GameLogics {
+ Index 1
+}
+Layer Towns {
+ Index 2
+}
+Layer managers {
+ Index 3
+}
